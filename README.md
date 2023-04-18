@@ -1,5 +1,7 @@
 # Lets-LeetCode!
 
+A Leetcode a day keeps the job interviews at bay
+
 This is a personal repository created to document my journey of solving LeetCode problems. As a software developer, it is essential to have strong problem-solving skills, and solving LeetCode problems is a great way to improve these skills.
 
 This repository is a collection of solutions to LeetCode problems in different programming languages, including Java and Go. I will be adding solutions to this repository regularly as I work through more problems.
@@ -15,7 +17,7 @@ LeetCode is a popular platform that offers a wide variety of coding challenges t
 ### Tracker
 |                     | Easy | Medium | Hard | Total |
 |:-------------------:|:----:|:------:|:----:|:-----:|
-|   Arrays & Hasing   |  0   |   0    |  0   | **0** |
+|  Arrays & Hashing   |  3   |   0    |  0   | **3** |
 |    Two Pointers     |  0   |   0    |  0   | **0** |
 |   Sliding Window    |  0   |   0    |  0   | **0** |
 |        Stack        |  0   |   0    |  0   | **0** |
@@ -33,6 +35,8 @@ LeetCode is a popular platform that offers a wide variety of coding challenges t
 |  Bit Manipulation   |  0   |   0    |  0   | **0** |
 
 ### Leetcode Problems
-|  #   |       Title        |                                     Solution                                      | Difficulty |    
-|:----:|:------------------:|:---------------------------------------------------------------------------------:|:----------:|
-|  1.  |      Two Sum       |                [Java](link-to-solution) / [Go](link-to-solution)                  |    Easy    |
+|  #   |       Title        |            Solution            |     Category     | Difficulty |   
+|:----:|:------------------:|:------------------------------:|:----------------:|:----------:|
+|  1.  |      Two Sum       |       [Go](./1-two-sum)        | Arrays & Hashing |    Easy    |
+| 217. | Contains Duplicate | [Go](./217-contains-duplicate) |       Arrays & Hashing       |    Easy    |
+| 242. |   Valid Anagram    |   [Go](./242-valid-anagram)    |       Arrays & Hashing       |    Easy    |

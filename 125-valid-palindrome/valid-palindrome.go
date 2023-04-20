@@ -5,7 +5,7 @@ import (
 	"unicode"
 )
 
-//First Brute force method
+// First Brute force method
 func isPalindrome(s string) bool {
 	cleanedString := cleanString(s)
 	middle := len(cleanedString) / 2

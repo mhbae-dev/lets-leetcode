@@ -11,7 +11,19 @@ func Test_isValid(t *testing.T) {
 		args args
 		want bool
 	}{
-		// TODO: Add test cases.
+		{
+			name: "Example 1",
+			args: args{s: "()"},
+			want: true,
+		}, {
+			name: "Example 2",
+			args: args{s: "()[]{}"},
+			want: true,
+		}, {
+			name: "Example 3",
+			args: args{s: "(]"},
+			want: false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

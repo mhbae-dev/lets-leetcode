@@ -1,7 +1,5 @@
 # Lets-LeetCode!
 
-A Leetcode a day keeps the job interviews at bay
-
 This is a personal repository created to document my journey of solving LeetCode problems. As a software developer, it is essential to have strong problem-solving skills, and solving LeetCode problems is a great way to improve these skills.
 
 This repository is a collection of solutions to LeetCode problems in different programming languages, including Java and Go. I will be adding solutions to this repository regularly as I work through more problems.
